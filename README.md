@@ -10,7 +10,7 @@ Simple to use Javascript API for Sabertooth motor controllers (made by Dimension
 
 ### Install
 
-``` npm install sabertooth.js ```
+``` npm install sabertoothjs ```
 
 ### Usage
 
