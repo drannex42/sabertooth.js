@@ -16,7 +16,7 @@ class Sabertooth {
         this.address = address || 128;
         this.baudRate = baudRate;
         this.mask = 127;
-        this.serial = new SerialPort('/dev/ttyACM0', {
+        this.serial = new SerialPort(port, {
             baudRate: this.baudRate
         })
     }
