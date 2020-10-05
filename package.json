@@ -1,6 +1,6 @@
 {
   "name": "sabertoothjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Javascript API for Sabertooth motor controllers",
   "main": "index.js",
   "scripts": {
