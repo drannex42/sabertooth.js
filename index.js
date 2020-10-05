@@ -39,9 +39,7 @@ class Sabertooth {
         if (speed < 0) {
             speed = -speed;
             // reverse commands are equal to forward + 1 (thanks, hexadecimal)
-            console.log(this.cmd)
             this.cmd += 1
-            console.log(this.cmd)
         }
         if (speed > 100) {
             console.log('Invalid Speed: ' + speed)
